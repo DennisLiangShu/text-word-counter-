@@ -1,0 +1,19 @@
+#drop-area {
+    border: 2px dashed gray;
+    padding: 100px;
+    margin-bottom: 20px;
+}
+
+.container {
+    margin: 2rem;
+    text-align:center;
+}
+
+#drop-area.highlight {
+    background-color: lightgray;
+}
+
+.drop-message {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
